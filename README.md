@@ -1,3 +1,6 @@
+# Todo-list
+## This is an application that helps ypu to keep a record of your tasks,sets/resets reminderscas and when required,add new tasks and delete completed tasks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
